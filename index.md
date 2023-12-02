@@ -15,3 +15,7 @@ if (myName == "Sam Wilcox") {
 }
 
 ```
+- [ ] Add the first task list item
+- [ ] Add the second task list item
+- [ ] Add the third task list item
+- [ ] Add the fourth task list item
